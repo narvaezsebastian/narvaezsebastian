@@ -2,7 +2,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hola,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> Soy estudiante en ingenieria de sistemas.
+    I am a systems engineering student, and I perform my work dynamically and efficiently in the systems area, focusing my main activities on software programming and technical support. Based on the skills described in my profile, I have developed web, mobile, and desktop applications in various programming languages, responsibly fulfilling assigned tasks and generating added value by contributing new ideas and solving problems independently or as part of a group.
   </samp>
 </p>
 
